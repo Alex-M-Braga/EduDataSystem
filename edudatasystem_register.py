@@ -1,0 +1,1 @@
+# register script placeholder
